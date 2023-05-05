@@ -1,0 +1,64 @@
+Teamed with 13 developers to execute APIs that enabled the internal analytics team to increase reporting
+speed from 15% to 25% in 2 weeks.
+
+Increased database performance from 10% to over 30% by configuring auto-scaling solutions to meet
+varying load requirements.
+
+Spearheaded the design of 20 IaaS-based solutions in Google Cloud Platform and delivered proof of concepts of new solutions on the cloud
+
+
+
+
+
+
+Managed 15 AWS accounts, including the setup and configuration of EC2 instances, RDS databases, VPCs,Elastic Load Balancers (ELBs), Cloudfront distributions, Route53 hosted zones & health checks.
+
+Developed 8 automation tools that streamlined infrastructure deployment processes using Bash scripting
+language.
+
+Improved RW’s security posture by implementing multi-factor authentication (MFA) on 21 administrator
+
+Provided technical expertise to 10 clients by designing solutions that leveraged over 6 cloud offerings
+including Amazon Web Services (AWS).
+accounts
+
+
+
+
+
+bydint
+
+Spearheaded and developed automation and process enhancements
+improving network infrastructure tools & services which resulted in an
+18% increase in performance.
+
+Constructed technical reviews & raised defect/bug tickets for
+components as well as provided permanent fixes speeding up
+productivity by 15%.
+
+Implemented key enhancements such as optimizing volumes & EC2
+instances as well as creating multiple VPC instances which have
+increased the overall speed
+
+Constructed cloud applications & cloud infrastructures that were
+deployed on Amazon Web Services in an optimized manner which
+improved their reliability by 45%.
+
+
+
+
+
+TCS
+Processed inbound/outbound technical support calls in an optimized
+& professional manner closing 70+ calls daily, 25% above quota,
+resulting in 100% customer satisfaction.
+
+Administered key operations such as troubleshooting analysis,
+identifying system failures, determining points of failure of hardware
+and/or applications, overseeing network issues, etc., leading to a 70%
+increase in overall performance.
+
+
+
+
+
